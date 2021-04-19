@@ -1097,11 +1097,11 @@ img {
   height: 15px;
   margin-right: 7px;
   cursor: pointer;
-  background: url(../../images/check1.svg);
+  background: url(../images/check1.svg);
 }
 
 .checkbox__input:checked + .checkbox__icon {
-  background: url(../../images/check2.svg);
+  background: url(../images/check2.svg);
 }
 
 .checkbox__link {

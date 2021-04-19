@@ -180,10 +180,10 @@
         height: 15px;
         margin-right: 7px;
         cursor: pointer;
-        background: url(../../images/check1.svg);
+        background: url(../images/check1.svg);
     }
     &__input:checked + &__icon {
-        background: url(../../images/check2.svg);
+        background: url(../images/check2.svg);
     }
     &__link {
         @extend %link;
